@@ -1,0 +1,30 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+    /*Menengahkan gambar*/
+    display: block;
+    margin: 0px auto 0px auto;
+}
+
+/*selector digunakan untuk memilih mana bagian dari HTML yang akan diubah*/
+/*syntax CSS adalah selector(properties: value;)*/
+
+/*selector dengan nama tag*/
+h1{
+    color: black;
+}
+
+/*selector class*/
+.tengah{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+/*selector id*/
+#judul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
